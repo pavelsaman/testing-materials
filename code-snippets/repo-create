@@ -1,0 +1,23 @@
+#!/bin/sh
+
+# A script for test repo creation
+#  it creates basic structure for my testing and testing notes
+
+DIRS=(pictures videos test-session-reports)
+FILES=(.gitignore README.md)
+
+if [ -z $1 ]; then
+    echo "No parent directory specified as argument" >&2
+    exit 1
+fi
+
+for folder in "${DIRS[@]}"; do
+    mkdir "${1}/$folder"
+done
+
+for file in "${FILES[@]}"; do
+    touch "${1}/$file"
+done
+
+exit 0
+

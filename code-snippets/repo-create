@@ -5,6 +5,7 @@
 
 DIRS=(pictures videos test-session-reports)
 FILES=(.gitignore README.md)
+declare -A COPY_FILES=(["../test-session-report.md"]="test-session-reports")
 
 if [ -z $1 ]; then
     echo "No parent directory specified as argument" >&2
@@ -17,6 +18,10 @@ done
 
 for file in "${FILES[@]}"; do
     touch "${1}/$file"
+done
+
+for copyfile in "${!COPY_FILES[@]}"; do
+    cp $copyfile "${1}/${COPY_FILES[$copyfile]}"
 done
 
 exit 0

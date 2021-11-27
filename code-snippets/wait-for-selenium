@@ -1,0 +1,24 @@
+#!/bin/sh
+
+[ -z $HOST ] && HOST=localhost
+[ -z $PORT ] && PORT=4444
+
+echo "${HOST}:${PORT}"
+
+ready=false
+while [ $ready == false ]; do
+    echo 'Checking...'
+    if curl -sSL "http://${HOST}:$PORT" -o /dev/null 2>/dev/null; then
+        ready=true
+    fi
+done
+
+echo 'Localhost ready.'
+
+while [ `curl -sSL "http://${HOST}:${PORT}/wd/hub/status" | jq '.value.ready'` != true ]; do
+    echo 'Checking status...';
+done
+
+echo "Selenium ready on ${HOST}:${PORT}"
+exit 0
+

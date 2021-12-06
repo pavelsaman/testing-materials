@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <minder version="1.13.1">
-  <theme name="solarized_light" label="Solarized Light" index="4"/>
+  <theme name="solarized_light" label="Solarized Light" index="7"/>
   <styles>
     <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
@@ -14,72 +14,72 @@
     <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
   </styles>
-  <drawarea x="-2.5" y="84" scale="1"/>
+  <drawarea x="99.5" y="-91.734588623046875" scale="1"/>
   <images/>
   <nodes>
-    <node id="0" posx="923" posy="410.00000000000023" width="94" height="59" side="left" fold="false" treesize="1053" layout="Horizontal" group="false">
+    <node id="0" posx="770.90869140624955" posy="660.00000000000023" width="94" height="59" side="left" fold="false" treesize="1509.0000000000005" layout="Horizontal" group="false">
       <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-      <nodename posx="941" posy="428.00000000000023" maxwidth="200">
+      <nodename posx="788.90869140624955" posy="678.00000000000023" maxwidth="200">
         <text data="Oracles"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="4" posx="648" posy="-64" width="175" height="59" side="left" fold="false" treesize="105" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+        <node id="1" posx="495.90869140624955" posy="-41.999999999999886" width="175" height="59" side="left" fold="false" treesize="105" color="#b58900" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="666" posy="-46" maxwidth="200">
+          <nodename posx="513.90869140624955" posy="-23.999999999999886" maxwidth="200">
             <text data="always and nevers"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="5" posx="330" posy="-87" width="218" height="105" side="left" fold="false" treesize="105" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+            <node id="2" posx="177.90869140625" posy="-65" width="218" height="105" side="left" fold="false" treesize="105" color="#b58900" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="348" posy="-69" maxwidth="200">
+              <nodename posx="195.90869140625" posy="-47" maxwidth="200">
                 <text data="e.g. an e-shop: I should always be able to create an order"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="6" posx="664" posy="29.5" width="159" height="59" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
+        <node id="3" posx="511.90869140624955" posy="51.500000000000114" width="159" height="59" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="682" posy="47.5" maxwidth="200">
+          <nodename posx="529.90869140624955" posy="69.500000000000114" maxwidth="200">
             <text data="core capabilities"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="7" posx="332" posy="18" width="232" height="82" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
+            <node id="4" posx="179.90869140625" posy="40.000000000000114" width="232" height="82" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="350" posy="36" maxwidth="200">
+              <nodename posx="197.90869140625" posy="58.000000000000114" maxwidth="200">
                 <text data="e.g. a file manager should always display files"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="8" posx="621" posy="187.00000000000023" width="202" height="59" side="left" fold="false" treesize="233" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+        <node id="5" posx="468.90869140624955" posy="209.00000000000023" width="202" height="59" side="left" fold="false" treesize="233" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="639" posy="205.00000000000023" maxwidth="200">
+          <nodename posx="486.90869140624955" posy="227.00000000000023" maxwidth="200">
             <text data="quality characteristics"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="9" posx="436" posy="187.00000000000023" width="85" height="59" side="left" fold="false" treesize="233" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+            <node id="6" posx="283.90869140625011" posy="209.00000000000023" width="85" height="59" side="left" fold="false" treesize="233" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="454" posy="205.00000000000023" maxwidth="200">
+              <nodename posx="301.90869140625011" posy="227.00000000000023" maxwidth="200">
                 <text data="FURPS"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="11" posx="120" posy="100.00000000000011" width="216" height="105" side="left" fold="false" treesize="105" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+                <node id="7" posx="-32.09130859375" posy="122.00000000000023" width="216" height="105" side="left" fold="false" treesize="105" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-                  <nodename posx="138" posy="118.00000000000011" maxwidth="200">
+                  <nodename posx="-14.09130859375" posy="140.00000000000023" maxwidth="200">
                     <text data="functionality, usability, reliability, performance, security, accessibility"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="32" posx="113" posy="205.00000000000011" width="223" height="128" side="left" fold="false" treesize="128" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+                <node id="8" posx="-39.09130859375" posy="227.00000000000023" width="223" height="128" side="left" fold="false" treesize="128" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-                  <nodename posx="131" posy="223.00000000000011" maxwidth="200">
+                  <nodename posx="-21.09130859375" posy="245.00000000000023" maxwidth="200">
                     <text data="e.g. pictures have alt attribute =&gt; accessibility, useful for text-to-speech software"/>
                   </nodename>
                   <nodenote></nodenote>
@@ -88,160 +88,275 @@
             </node>
           </nodes>
         </node>
-        <node id="13" posx="600" posy="333.00000000000023" width="223" height="82" side="left" fold="false" treesize="82" color="#6c71c4" colorroot="false" layout="Horizontal" group="false">
+        <node id="9" posx="447.90869140624966" posy="355" width="223" height="82" side="left" fold="false" treesize="82" color="#6c71c4" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="618" posy="351.00000000000023" maxwidth="200">
+          <nodename posx="465.90869140624966" posy="373" maxwidth="200">
             <text data="requirements, and other documents"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="22" posx="594" posy="467.50000000000023" width="229" height="59" side="left" fold="false" treesize="164" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
+        <node id="10" posx="441.90869140624966" posy="571.50000000000023" width="229" height="59" side="left" fold="false" treesize="328.00000000000011" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="612" posy="485.50000000000023" maxwidth="200">
+          <nodename posx="459.90869140624966" posy="589.50000000000023" maxwidth="200">
             <text data="regulation and standards"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="23" posx="432" posy="415.00000000000023" width="62" height="59" side="left" fold="false" treesize="59" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
+            <node id="11" posx="279.90869140625011" posy="437" width="62" height="59" side="left" fold="false" treesize="59" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="450" posy="433.00000000000023" maxwidth="200">
+              <nodename posx="297.90869140625011" posy="455" maxwidth="200">
                 <text data="law"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="24" posx="260" posy="474.00000000000023" width="234" height="105" side="left" fold="false" treesize="105" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
+            <node id="12" posx="107.90869140625006" posy="496.00000000000023" width="234" height="105" side="left" fold="false" treesize="105" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="278" posy="492.00000000000023" maxwidth="200">
+              <nodename posx="125.90869140625006" posy="514.00000000000023" maxwidth="200">
                 <text data="aviation, health care systems, but even cookies and GDPR"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="53" posx="157.90869140624966" posy="601.00000000000023" width="184" height="82" side="left" fold="false" treesize="82" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="175.90869140624966" posy="619.00000000000023" maxwidth="200">
+                <text data="from outside of the project"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="56" posx="133.90869140624966" posy="683.00000000000023" width="208" height="82" side="left" fold="false" treesize="82" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="151.90869140624966" posy="701.00000000000023" maxwidth="200">
+                <text data="e.g. RFC and API status codes"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="29" posx="688" posy="579.00000000000023" width="135" height="59" side="left" fold="false" treesize="59" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+        <node id="54" posx="586.90869140624955" posy="765.00000000000023" width="84" height="59" side="left" fold="false" treesize="59" color="#2aa198" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="706" posy="597.00000000000023" maxwidth="200">
+          <nodename posx="604.90869140624955" posy="783.00000000000023" maxwidth="200">
+            <text data="claims"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="13" posx="535.90869140624955" posy="824.00000000000023" width="135" height="59" side="left" fold="false" treesize="59" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="553.90869140624955" posy="842.00000000000023" maxwidth="200">
             <text data="comparables"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="30" posx="388" posy="579.00000000000023" width="200" height="59" side="left" fold="false" treesize="59" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+            <node id="14" posx="235.90869140625011" posy="824.00000000000023" width="200" height="59" side="left" fold="false" treesize="59" color="#b58900" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="406" posy="597.00000000000023" maxwidth="200">
+              <nodename posx="253.90869140625011" posy="842.00000000000023" maxwidth="200">
                 <text data="comparable products"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="34" posx="667" posy="649.50000000000023" width="156" height="59" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
+        <node id="15" posx="514.90869140624955" posy="894.50000000000023" width="156" height="59" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="685" posy="667.50000000000023" maxwidth="200">
+          <nodename posx="532.90869140624955" posy="912.50000000000023" maxwidth="200">
             <text data="approximations"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="35" posx="373" posy="638.00000000000023" width="194" height="82" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
+            <node id="16" posx="220.90869140625011" posy="883.00000000000023" width="194" height="82" side="left" fold="false" treesize="82" color="#859900" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="391" posy="656.00000000000023" maxwidth="200">
+              <nodename posx="238.90869140625011" posy="901.00000000000023" maxwidth="200">
                 <text data="e.g. creating my own calculation in Excel"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="36" posx="746" posy="813.50000000000023" width="77" height="59" side="left" fold="false" treesize="246" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+        <node id="17" posx="593.90869140624955" posy="1058.5000000000005" width="77" height="59" side="left" fold="false" treesize="246" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="764" posy="831.50000000000023" maxwidth="200">
+          <nodename posx="611.90869140624955" posy="1076.5000000000005" maxwidth="200">
             <text data="limits"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="37" posx="470" posy="720.00000000000023" width="176" height="59" side="left" fold="false" treesize="59" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+            <node id="18" posx="317.90869140625011" posy="965.00000000000045" width="176" height="59" side="left" fold="false" treesize="59" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="488" posy="738.00000000000023" maxwidth="200">
+              <nodename posx="335.90869140625011" posy="983.00000000000045" maxwidth="200">
                 <text data="knowing the limits"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="38" posx="418" posy="779.00000000000023" width="228" height="105" side="left" fold="false" treesize="105" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+            <node id="19" posx="265.90869140625011" posy="1024.0000000000005" width="228" height="105" side="left" fold="false" treesize="105" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="436" posy="797.00000000000023" maxwidth="200">
+              <nodename posx="283.90869140625011" posy="1042.0000000000005" maxwidth="200">
                 <text data="e.g. 200 km/h speed for a dog is obviously wrong, I can check Wikipedia"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="39" posx="463" posy="884.00000000000023" width="183" height="82" side="left" fold="false" treesize="82" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+            <node id="20" posx="310.90869140625011" posy="1129.0000000000005" width="183" height="82" side="left" fold="false" treesize="82" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="481" posy="902.00000000000023" maxwidth="200">
+              <nodename posx="328.90869140625011" posy="1147.0000000000005" maxwidth="200">
                 <text data="play with extremes, boundaries"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="1" posx="1117" posy="141" width="159" height="59" side="right" fold="false" treesize="82" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+        <node id="46" posx="581.90869140624955" posy="1234.0000000000005" width="89" height="59" side="left" fold="false" treesize="105" color="#859900" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="1135" posy="159" maxwidth="200">
-            <text data="sources of truth"/>
+          <nodename posx="599.90869140624955" posy="1252.0000000000005" maxwidth="200">
+            <text data="history"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="2" posx="1376" posy="129.5" width="193" height="82" side="right" fold="false" treesize="82" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+            <node id="47" posx="258.90869140624955" posy="1211.0000000000005" width="223" height="105" side="left" fold="false" treesize="105" color="#859900" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="1394" posy="147.5" maxwidth="200">
-                <text data="how to determine if something is correct"/>
+              <nodename posx="276.90869140624955" posy="1229.0000000000005" maxwidth="200">
+                <text data="e.g. previous version of this product did this, but not it does not do it"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="3" posx="1117" posy="211.5" width="225" height="128" side="right" fold="false" treesize="128" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+        <node id="50" posx="570.90869140624955" posy="1350.5000000000005" width="100" height="59" side="left" fold="false" treesize="128" color="#6c71c4" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="1135" posy="229.5" maxwidth="200">
-            <text data="e.g. not being able to create an account from this side... is it correct, or not?"/>
+          <nodename posx="588.90869140624955" posy="1368.5000000000005" maxwidth="200">
+            <text data="purpose"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="51" posx="236.90869140624955" posy="1316.0000000000005" width="234" height="128" side="left" fold="false" treesize="128" color="#6c71c4" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="254.90869140624955" posy="1334.0000000000005" maxwidth="200">
+                <text data="e.g. this SW exists to help me organise my directory, but it crashes when I have symlinks in it"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="30" posx="964.90869140624955" posy="192.50000000000023" width="225" height="82" side="right" fold="false" treesize="164" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="982.90869140624955" posy="210.50000000000023" maxwidth="200">
+            <text data="ways to identify there's a problem"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="31" posx="1289.9086914062495" posy="192.50000000000023" width="185" height="82" side="right" fold="false" treesize="164" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1307.9086914062495" posy="210.50000000000023" maxwidth="200">
+                <text data="it might start with a feeling"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="32" posx="1574.9086914062495" posy="151.50000000000023" width="235" height="82" side="right" fold="false" treesize="82" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+                  <nodename posx="1592.9086914062495" posy="169.50000000000023" maxwidth="200">
+                    <text data="e.g. I get angry something did not happen"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="33" posx="1574.9086914062495" posy="233.50000000000034" width="223" height="82" side="right" fold="false" treesize="82" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+                  <nodename posx="1592.9086914062495" posy="251.50000000000034" maxwidth="200">
+                    <text data="e.g. I get frustrated something takes so long"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="23" posx="964.90869140624955" posy="315.50000000000034" width="232" height="128" side="right" fold="false" treesize="128" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="982.90869140624955" posy="333.50000000000034" maxwidth="200">
+            <text data="e.g. not being able to create an account from this page... is it correct, or not?"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="15" posx="1117" posy="515.00000000000023" width="172" height="59" side="right" fold="false" treesize="410" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+        <node id="37" posx="964.90869140624955" posy="514.00000000000011" width="224" height="105" side="right" fold="false" treesize="245.99999999999986" color="#b58900" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-          <nodename posx="1135" posy="533.00000000000023" maxwidth="200">
+          <nodename posx="982.90869140624955" posy="532.00000000000011" maxwidth="200">
+            <text data="provide my observations and inconsistency principle"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="38" posx="1288.9086914062495" posy="443.50000000000011" width="225" height="105" side="right" fold="false" treesize="105" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1306.9086914062495" posy="461.50000000000011" maxwidth="200">
+                <text data="e.g. I found ... and I think it is inconsistent with the product claim."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="45" posx="1288.9086914062495" posy="548.5" width="204" height="59" side="right" fold="false" treesize="59" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1306.9086914062495" posy="566.5" maxwidth="200">
+                <text data="(not) consistent with..."/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="52" posx="1288.9086914062495" posy="607.50000000000023" width="189" height="82" side="right" fold="false" treesize="82" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1306.9086914062495" posy="625.50000000000023" maxwidth="200">
+                <text data="why I think there's a problem"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="24" posx="964.90869140624955" posy="865" width="172" height="59" side="right" fold="false" treesize="410" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="982.90869140624955" posy="883" maxwidth="200">
             <text data="requirement talks"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="16" posx="1389" posy="339.50000000000023" width="221" height="82" side="right" fold="false" treesize="82" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+            <node id="25" posx="1236.9086914062495" posy="689.5" width="221" height="82" side="right" fold="false" treesize="82" color="#d33682" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="1407" posy="357.50000000000023" maxwidth="200">
+              <nodename posx="1254.9086914062495" posy="707.5" maxwidth="200">
                 <text data="give me an elevator speech for this software"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="17" posx="1389" posy="421.50000000000023" width="234" height="105" side="right" fold="false" treesize="105" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+            <node id="26" posx="1236.9086914062495" posy="771.5" width="234" height="105" side="right" fold="false" treesize="105" color="#d33682" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="1407" posy="439.50000000000023" maxwidth="200">
+              <nodename posx="1254.9086914062495" posy="789.5" maxwidth="200">
                 <text data="why would someone use this software and not that one?"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="18" posx="1389" posy="526.50000000000023" width="222" height="82" side="right" fold="false" treesize="82" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+            <node id="27" posx="1236.9086914062495" posy="876.5" width="222" height="82" side="right" fold="false" treesize="82" color="#d33682" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="1407" posy="544.50000000000023" maxwidth="200">
+              <nodename posx="1254.9086914062495" posy="894.5" maxwidth="200">
                 <text data="what are the selling points for this software?"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="19" posx="1389" posy="608.50000000000023" width="219" height="59" side="right" fold="false" treesize="59" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+            <node id="28" posx="1236.9086914062495" posy="958.5" width="219" height="59" side="right" fold="false" treesize="59" color="#d33682" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="1407" posy="626.50000000000023" maxwidth="200">
+              <nodename posx="1254.9086914062495" posy="976.5" maxwidth="200">
                 <text data="who are the customers?"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="20" posx="1389" posy="667.50000000000023" width="233" height="82" side="right" fold="false" treesize="82" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+            <node id="29" posx="1236.9086914062495" posy="1017.5000000000002" width="233" height="82" side="right" fold="false" treesize="82" color="#d33682" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
-              <nodename posx="1407" posy="685.50000000000023" maxwidth="200">
+              <nodename posx="1254.9086914062495" posy="1035.5000000000002" maxwidth="200">
                 <text data="what do the cutomers say about this software"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="48" posx="964.90869140624955" posy="1134.0000000000002" width="104" height="59" side="right" fold="false" treesize="128" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="982.90869140624955" posy="1152.0000000000002" maxwidth="200">
+            <text data="HICCUPS"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="49" posx="1168.9086914062495" posy="1099.5000000000002" width="236" height="128" side="right" fold="false" treesize="128" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1186.9086914062495" posy="1117.5000000000002" maxwidth="200">
+                <text data="history, image, claims, comparables, user desires, product, purpose, status"/>
               </nodename>
               <nodenote></nodenote>
             </node>

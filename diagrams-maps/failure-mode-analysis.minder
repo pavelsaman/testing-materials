@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<minder version="1.14.0" parent-etag="24761818" etag="2687673121">
+  <theme name="solarized_light" label="Solarized Light" index="6"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="none" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="142.00000000000045" y="0" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="725.99999999999955" posy="494" width="199" height="59" side="left" fold="false" treesize="492" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+      <nodename posx="743.99999999999955" posy="512" maxwidth="200">
+        <text data="Failure Mode Analysis"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="9" posx="547.99999999999955" posy="464.5" width="78" height="59" side="left" fold="false" treesize="118" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="565.99999999999955" posy="482.5" maxwidth="200">
+            <text data="users"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="10" posx="357.99999999999966" posy="435" width="90" height="59" side="left" fold="false" treesize="59" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="375.99999999999966" posy="453" maxwidth="200">
+                <text data="classes"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="11" posx="340.99999999999966" posy="494" width="107" height="59" side="left" fold="false" treesize="59" color="#268bd2" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="358.99999999999966" posy="512" maxwidth="200">
+                <text data="personas"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="14" posx="402.99999999999966" posy="553" width="223" height="59" side="left" fold="false" treesize="59" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="420.99999999999966" posy="571" maxwidth="200">
+            <text data="determine failure impact"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="15" posx="100" posy="553" width="203" height="59" side="left" fold="false" treesize="59" color="#d33682" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="118" posy="571" maxwidth="200">
+                <text data="talk to people about it"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="1" posx="1024.9999999999993" posy="277.5" width="228" height="59" side="right" fold="false" treesize="59" color="#dc322f" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="1042.9999999999993" posy="295.5" maxwidth="200">
+            <text data="risk-based test technique"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="2" posx="1024.9999999999993" posy="459.5" width="234" height="59" side="right" fold="false" treesize="305" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="1042.9999999999993" posy="477.5" maxwidth="200">
+            <text data="start with a block diagram"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="4" posx="1359" posy="336.5" width="226" height="82" side="right" fold="false" treesize="82" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1377" posy="354.5" maxwidth="200">
+                <text data="e.g. modules or subparts of the system"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="5" posx="1359" posy="489" width="223" height="82" side="right" fold="false" treesize="223" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1377" posy="507" maxwidth="200">
+                <text data="https://en.wikipedia.org/wiki/Block_diagram"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="6" posx="1682" posy="418.5" width="231" height="82" side="right" fold="false" treesize="82" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+                  <nodename posx="1700" posy="436.5" maxwidth="200">
+                    <text data="e.g. used to describe Unix architecture"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="7" posx="1682" posy="500.5" width="234" height="59" side="right" fold="false" treesize="59" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+                  <nodename posx="1700" posy="518.5" maxwidth="200">
+                    <text data="parts, processes, modules"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="8" posx="1682" posy="559.5" width="201" height="82" side="right" fold="false" treesize="82" color="#cb4b16" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+                  <nodename posx="1700" posy="577.5" maxwidth="200">
+                    <text data="relations between the parts"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="3" posx="1024.9999999999993" posy="641.5" width="229" height="128" side="right" fold="false" treesize="128" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+          <nodename posx="1042.9999999999993" posy="659.5" maxwidth="200">
+            <text data="imagine what (what part of the block diagram) can fail and what impact on users it can have"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="16" posx="1353.9999999999993" posy="653" width="233" height="105" side="right" fold="false" treesize="105" color="#b58900" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="curved" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="10" nodefont="Sans 12" nodemarkup="true"/>
+              <nodename posx="1371.9999999999993" posy="671" maxwidth="200">
+                <text data="then simulate the failures and look at the results and consequences of that"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+</minder>

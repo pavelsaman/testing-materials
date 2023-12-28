@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<minder version="1.14.0" parent-etag="955777095" etag="1441590080">
-  <theme name="default" label="Light" index="6"/>
+<minder version="1.14.0" parent-etag="1561016334" etag="2564138206">
+  <theme name="default" label="Light" index="5"/>
   <styles>
     <style level="0" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="1" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
@@ -14,61 +14,61 @@
     <style level="9" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
     <style level="10" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
   </styles>
-  <drawarea x="-230.31992594401027" y="-193.38496907552087" scale="0.75"/>
+  <drawarea x="188.37376797432171" y="136.91214378542884" scale="0.75"/>
   <images/>
   <nodes>
-    <node id="0" posx="1469.0174153645833" posy="543.33619181315112" width="93" height="46" side="left" fold="false" treesize="1313.9999999999995" layout="Horizontal" group="false">
+    <node id="0" posx="909.82551181083545" posy="55.560909193086843" width="93" height="46" side="left" fold="false" treesize="2293.9999999999991" layout="Horizontal" group="false">
       <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-      <nodename posx="1483.0174153645833" posy="557.33619181315112" maxwidth="200">
+      <nodename posx="923.82551181083545" posy="69.560909193086843" maxwidth="200">
         <text data="SCIM (v2)"/>
       </nodename>
       <nodenote></nodenote>
       <nodes>
-        <node id="15" posx="1142.0174153645833" posy="516.33619181315112" width="227" height="100" side="left" fold="false" treesize="1313.9999999999995" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+        <node id="15" posx="582.8255118108342" posy="-163.43909080691316" width="227" height="100" side="left" fold="false" treesize="1314" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1156.0174153645833" posy="530.33619181315112" maxwidth="200">
+          <nodename posx="596.8255118108342" posy="-149.43909080691316" maxwidth="200">
             <text data="GET /Users?filter=userName eq &quot;email&quot;&amp;startIndex=1&amp;count=100"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="16" posx="828.01741536458326" posy="-90.663808186848769" width="214" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="16" posx="268.82551181083426" posy="-770.43909080691321" width="214" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="842.01741536458326" posy="-76.663808186848769" maxwidth="200">
+              <nodename posx="282.82551181083426" posy="-756.43909080691321" maxwidth="200">
                 <text data="gets called before I want to create or edit a user identity resource"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="17" posx="829.01741536458326" posy="-8.6638081868487689" width="213" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="17" posx="269.82551181083426" posy="-688.4390908069131" width="213" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="843.01741536458326" posy="5.3361918131512311" maxwidth="200">
+              <nodename posx="283.82551181083426" posy="-674.4390908069131" maxwidth="200">
                 <text data="if it returns that a user does not exist, I can create a new one"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="18" posx="820.01741536458326" posy="73.33619181315126" width="222" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="18" posx="260.82551181083426" posy="-606.43909080691333" width="222" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="834.01741536458326" posy="87.33619181315126" maxwidth="200">
+              <nodename posx="274.82551181083426" posy="-592.43909080691333" maxwidth="200">
                 <text data="if it returns that a user does exist, I can PUT or PATCH the user"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="19" posx="815.01741536458326" posy="155.33619181315123" width="227" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="19" posx="255.82551181083426" posy="-524.43909080691333" width="227" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="829.01741536458326" posy="169.33619181315123" maxwidth="200">
+              <nodename posx="269.82551181083426" posy="-510.43909080691333" maxwidth="200">
                 <text data="userName is not the only filter parameter, it depends on what I configure"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="20" posx="495.01741536458326" posy="155.33619181315123" width="220" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="20" posx="-64.17448818916543" posy="-524.43909080691333" width="220" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="509.01741536458326" posy="169.33619181315123" maxwidth="200">
+                  <nodename posx="-50.17448818916543" posy="-510.43909080691333" maxwidth="200">
                     <text data="the filter param should check a unique attribute in the service provider"/>
                   </nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="21" posx="169.01741536458326" posy="164.33619181315123" width="226" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                    <node id="21" posx="-390.17448818916552" posy="-515.43909080691333" width="226" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                       <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="183.01741536458326" posy="178.33619181315123" maxwidth="200">
+                      <nodename posx="-376.17448818916552" posy="-501.43909080691333" maxwidth="200">
                         <text data="e.g. name is not unique, email typically is"/>
                       </nodename>
                       <nodenote></nodenote>
@@ -77,123 +77,123 @@
                 </node>
               </nodes>
             </node>
-            <node id="26" posx="870.01741536458326" posy="237.33619181315123" width="172" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="26" posx="310.82551181083426" posy="-442.43909080691321" width="172" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="884.01741536458326" posy="251.33619181315123" maxwidth="200">
+              <nodename posx="324.82551181083426" posy="-428.43909080691321" maxwidth="200">
                 <text data="the query param is uri component encoded"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="29" posx="824.01741536458326" posy="351.33619181315129" width="218" height="100" side="left" fold="false" treesize="200" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="29" posx="264.82551181083426" posy="-328.43909080691321" width="218" height="100" side="left" fold="false" treesize="200" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="838.01741536458326" posy="365.33619181315129" maxwidth="200">
+              <nodename posx="278.82551181083426" posy="-314.43909080691321" maxwidth="200">
                 <text data="the service provider can return 200 with payload info (even when no user is found) or 404 with error in payload"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="44" posx="496.01741536458326" posy="301.33619181315134" width="228" height="100" side="left" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="44" posx="-63.17448818916543" posy="-378.43909080691321" width="228" height="100" side="left" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="510.01741536458326" posy="315.33619181315134" maxwidth="200">
+                  <nodename posx="-49.17448818916543" posy="-364.43909080691321" maxwidth="200">
                     <text data="200, then schemas attr should be &quot;&quot;urn:ietf:params:scim:api:messages:2.0:ListResponse&quot;&quot;"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="45" posx="496.01741536458326" posy="401.33619181315134" width="228" height="100" side="left" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="45" posx="-63.17448818916543" posy="-278.43909080691316" width="228" height="100" side="left" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="510.01741536458326" posy="415.33619181315134" maxwidth="200">
+                  <nodename posx="-49.17448818916543" posy="-264.43909080691316" maxwidth="200">
                     <text data="404, then schemas attr should be: &quot;&quot;urn:ietf:params:scim:api:messages:2.0:Error&quot;&quot;"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
               </nodes>
             </node>
-            <node id="32" posx="941.01741536458326" posy="839.33619181315112" width="101" height="46" side="left" fold="false" treesize="721.99999999999977" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+            <node id="32" posx="381.82551181083426" posy="159.56090919308684" width="101" height="46" side="left" fold="false" treesize="722" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="955.01741536458326" posy="853.33619181315112" maxwidth="200">
+              <nodename posx="395.82551181083426" posy="173.56090919308684" maxwidth="200">
                 <text data="some risks"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="33" posx="630.01741536458326" posy="501.33619181315112" width="211" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="33" posx="70.825511810834385" posy="-178.43909080691316" width="211" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="644.01741536458326" posy="515.33619181315112" maxwidth="200">
+                  <nodename posx="84.825511810834385" posy="-164.43909080691316" maxwidth="200">
                     <text data="configuring non-unique filter param"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="34" posx="613.01741536458326" posy="565.33619181315112" width="228" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="34" posx="53.825511810834385" posy="-114.43909080691316" width="228" height="82" side="left" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="627.01741536458326" posy="579.33619181315112" maxwidth="200">
+                  <nodename posx="67.825511810834385" posy="-100.43909080691316" maxwidth="200">
                     <text data="configuring different param in the SCIM server than what the service provider says"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="35" posx="657.01741536458326" posy="647.33619181315112" width="184" height="46" side="left" fold="false" treesize="46" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="35" posx="97.825511810834385" posy="-32.4390908069131" width="184" height="46" side="left" fold="false" treesize="46" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="671.01741536458326" posy="661.33619181315112" maxwidth="200">
+                  <nodename posx="111.82551181083439" posy="-18.4390908069131" maxwidth="200">
                     <text data="startIndex starts from 1"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="36" posx="628.01741536458326" posy="693.33619181315112" width="213" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="36" posx="68.825511810834385" posy="13.56090919308707" width="213" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="642.01741536458326" posy="707.33619181315112" maxwidth="200">
+                  <nodename posx="82.825511810834385" posy="27.56090919308707" maxwidth="200">
                     <text data="default startIndex and count values"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="37" posx="673.01741536458326" posy="757.33619181315112" width="168" height="46" side="left" fold="false" treesize="46" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="37" posx="113.82551181083431" posy="77.56090919308707" width="168" height="46" side="left" fold="false" treesize="46" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="687.01741536458326" posy="771.33619181315112" maxwidth="200">
+                  <nodename posx="127.82551181083431" posy="91.56090919308707" maxwidth="200">
                     <text data="wrong response body"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="38" posx="628.01741536458326" posy="803.33619181315112" width="213" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="38" posx="68.825511810834385" posy="123.56090919308684" width="213" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="642.01741536458326" posy="817.33619181315112" maxwidth="200">
+                  <nodename posx="82.825511810834385" posy="137.56090919308684" maxwidth="200">
                     <text data="wrong encoding or decoding of the query param"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="39" posx="615.01741536458326" posy="867.33619181315112" width="226" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="39" posx="55.825511810834385" posy="187.56090919308679" width="226" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="629.01741536458326" posy="881.33619181315112" maxwidth="200">
+                  <nodename posx="69.825511810834385" posy="201.56090919308679" maxwidth="200">
                     <text data="the user resource is not found in the system provider"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="40" posx="646.01741536458326" posy="931.33619181315089" width="195" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="40" posx="86.825511810834385" posy="251.56090919308679" width="195" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="660.01741536458326" posy="945.33619181315089" maxwidth="200">
+                  <nodename posx="100.82551181083439" posy="265.56090919308679" maxwidth="200">
                     <text data="no or wrong authorization provided"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="46" posx="661.01741536458326" posy="995.33619181315089" width="180" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="46" posx="101.82551181083439" posy="315.56090919308679" width="180" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="675.01741536458326" posy="1009.3361918131509" maxwidth="200">
+                  <nodename posx="115.82551181083439" posy="329.56090919308679" maxwidth="200">
                     <text data="leaked service provider authorization token"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="41" posx="649.01741536458326" posy="1059.3361918131509" width="192" height="100" side="left" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="41" posx="89.825511810834385" posy="379.56090919308656" width="192" height="100" side="left" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="663.01741536458326" posy="1073.3361918131509" maxwidth="200">
+                  <nodename posx="103.82551181083439" posy="393.56090919308656" maxwidth="200">
                     <text data="performance issues with searching for the user resources in the service provider"/>
                   </nodename>
                   <nodenote></nodenote>
                 </node>
-                <node id="42" posx="653.01741536458326" posy="1159.3361918131509" width="188" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                <node id="42" posx="93.825511810834385" posy="479.56090919308656" width="188" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="667.01741536458326" posy="1173.3361918131509" maxwidth="200">
+                  <nodename posx="107.82551181083439" posy="493.56090919308656" maxwidth="200">
                     <text data="implementation-specific issues"/>
                   </nodename>
                   <nodenote></nodenote>
                   <nodes>
-                    <node id="43" posx="340.01741536458326" posy="1159.3361918131509" width="213" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+                    <node id="43" posx="-219.17448818916546" posy="479.56090919308656" width="213" height="64" side="left" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
                       <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                      <nodename posx="354.01741536458326" posy="1173.3361918131509" maxwidth="200">
+                      <nodename posx="-205.17448818916546" posy="493.56090919308656" maxwidth="200">
                         <text data="e.g. how to search the DB in the service provider"/>
                       </nodename>
                       <nodenote></nodenote>
@@ -204,30 +204,90 @@
             </node>
           </nodes>
         </node>
-        <node id="9" posx="1662.0174153645833" posy="268.33619181315112" width="178" height="64" side="right" fold="false" treesize="164" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+        <node id="65" posx="705.8255118108342" posy="648.56090919308679" width="104" height="46" side="left" fold="false" treesize="256" color="#f37329" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1676.0174153645833" posy="282.33619181315112" maxwidth="200">
+          <nodename posx="719.8255118108342" posy="662.56090919308679" maxwidth="200">
+            <text data="GET /Users"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="66" posx="394.82551181083426" posy="543.56090919308679" width="211" height="64" side="left" fold="false" treesize="64" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="408.82551181083426" posy="557.56090919308679" maxwidth="200">
+                <text data="retrieving more users at the same time"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="67" posx="380.82551181083426" posy="607.56090919308679" width="225" height="46" side="left" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="394.82551181083426" posy="621.56090919308679" maxwidth="200">
+                <text data="pagination must be supported"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="68" posx="381.82551181083426" posy="653.56090919308679" width="224" height="64" side="left" fold="false" treesize="64" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="395.82551181083426" posy="667.56090919308679" maxwidth="200">
+                <text data="startIndex and count are used for pagination"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="69" posx="401.82551181083426" posy="717.5609091930869" width="204" height="82" side="left" fold="false" treesize="82" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="415.82551181083426" posy="731.5609091930869" maxwidth="200">
+                <text data="same ordering between different requests must be implemented"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="70" posx="648.8255118108342" posy="840.5609091930869" width="161" height="46" side="left" fold="false" treesize="128" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="662.8255118108342" posy="854.5609091930869" maxwidth="200">
+            <text data="GET /Users/{userId}"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="71" posx="357.82551181083426" posy="799.5609091930869" width="191" height="46" side="left" fold="false" treesize="46" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="371.82551181083426" posy="813.5609091930869" maxwidth="200">
+                <text data="retrieving a specific user"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="72" posx="323.82551181083426" posy="845.5609091930869" width="225" height="82" side="left" fold="false" treesize="82" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="337.82551181083426" posy="859.5609091930869" maxwidth="200">
+                <text data="the response is a user object, e.g. like the one after creating a user with POST /Users"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="9" posx="1102.8255118108357" posy="-1018.4390908069132" width="178" height="64" side="right" fold="false" treesize="164" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1116.8255118108357" posy="-1004.4390908069132" maxwidth="200">
             <text data="SCIM == cross-domain identity management"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="10" posx="1940.0174153645833" posy="218.33619181315112" width="219" height="100" side="right" fold="false" treesize="100" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+            <node id="10" posx="1380.8255118108357" posy="-1068.4390908069131" width="219" height="100" side="right" fold="false" treesize="100" color="#68b723" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1954.0174153645833" posy="232.33619181315112" maxwidth="200">
+              <nodename posx="1394.8255118108357" posy="-1054.4390908069131" maxwidth="200">
                 <text data="a user has an identity in one system and wants to use the same identity in a different system"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="13" posx="1940.0174153645833" posy="318.33619181315112" width="169" height="64" side="right" fold="false" treesize="64" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+            <node id="13" posx="1380.8255118108357" posy="-968.43909080691321" width="169" height="64" side="right" fold="false" treesize="64" color="#68b723" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1954.0174153645833" posy="332.33619181315112" maxwidth="200">
+              <nodename posx="1394.8255118108357" posy="-954.43909080691321" maxwidth="200">
                 <text data="we talk about identity resources"/>
               </nodename>
               <nodenote></nodenote>
               <nodes>
-                <node id="14" posx="2209.0174153645821" posy="327.33619181315112" width="197" height="46" side="right" fold="false" treesize="46" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+                <node id="14" posx="1649.8255118108357" posy="-959.43909080691321" width="197" height="46" side="right" fold="false" treesize="46" color="#68b723" colorroot="false" layout="Horizontal" group="false">
                   <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-                  <nodename posx="2223.0174153645821" posy="341.33619181315112" maxwidth="200">
+                  <nodename posx="1663.8255118108357" posy="-945.43909080691321" maxwidth="200">
                     <text data="it can be users, groups, ..."/>
                   </nodename>
                   <nodenote></nodenote>
@@ -236,107 +296,385 @@
             </node>
           </nodes>
         </node>
-        <node id="1" posx="1662.0174153645833" posy="396.33619181315112" width="226" height="82" side="right" fold="false" treesize="110" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+        <node id="1" posx="1102.8255118108357" posy="-890.43909080691321" width="226" height="82" side="right" fold="false" treesize="110" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1676.0174153645833" posy="410.33619181315112" maxwidth="200">
+          <nodename posx="1116.8255118108357" posy="-876.43909080691321" maxwidth="200">
             <text data="a standartized way to manage identity resources in a different system"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="2" posx="1988.0174153645833" posy="382.33619181315112" width="204" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+            <node id="2" posx="1428.8255118108357" posy="-904.43909080691321" width="204" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="2002.0174153645833" posy="396.33619181315112" maxwidth="200">
+              <nodename posx="1442.8255118108357" posy="-890.43909080691321" maxwidth="200">
                 <text data="typically from an IdP into a system"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="3" posx="1988.0174153645833" posy="446.33619181315112" width="154" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+            <node id="3" posx="1428.8255118108357" posy="-840.4390908069131" width="154" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="2002.0174153645833" posy="460.33619181315112" maxwidth="200">
+              <nodename posx="1442.8255118108357" posy="-826.4390908069131" maxwidth="200">
                 <text data="create == provision"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="4" posx="1662.0174153645833" posy="543.33619181315112" width="214" height="82" side="right" fold="false" treesize="184" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+        <node id="4" posx="1102.8255118108357" posy="-743.4390908069131" width="214" height="82" side="right" fold="false" treesize="184" color="#f37329" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1676.0174153645833" posy="557.33619181315112" maxwidth="200">
+          <nodename posx="1116.8255118108357" posy="-729.4390908069131" maxwidth="200">
             <text data="it's basically a protocol that describes how the provisioning should look like"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="5" posx="1976.0174153645833" posy="492.33619181315112" width="51" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+            <node id="5" posx="1416.8255118108357" posy="-794.4390908069131" width="51" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1990.0174153645833" posy="506.33619181315112" maxwidth="200">
+              <nodename posx="1430.8255118108357" posy="-780.4390908069131" maxwidth="200">
                 <text data="API"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="6" posx="1976.0174153645833" posy="538.336191813151" width="63" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+            <node id="6" posx="1416.8255118108357" posy="-748.4390908069131" width="63" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1990.0174153645833" posy="552.336191813151" maxwidth="200">
+              <nodename posx="1430.8255118108357" posy="-734.4390908069131" maxwidth="200">
                 <text data="REST"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="7" posx="1976.0174153645833" posy="584.33619181315112" width="128" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+            <node id="7" posx="1416.8255118108357" posy="-702.43909080691299" width="128" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1990.0174153645833" posy="598.33619181315112" maxwidth="200">
+              <nodename posx="1430.8255118108357" posy="-688.43909080691299" maxwidth="200">
                 <text data="JSON payloads"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="11" posx="1976.0174153645833" posy="630.33619181315112" width="194" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+            <node id="11" posx="1416.8255118108357" posy="-656.43909080691299" width="194" height="46" side="right" fold="false" treesize="46" color="#f37329" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1990.0174153645833" posy="644.33619181315112" maxwidth="200">
+              <nodename posx="1430.8255118108357" posy="-642.43909080691299" maxwidth="200">
                 <text data="application-level protocol"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="8" posx="1662.0174153645833" posy="676.33619181315112" width="210" height="82" side="right" fold="false" treesize="82" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
+        <node id="8" posx="1102.8255118108357" posy="-610.43909080691287" width="210" height="82" side="right" fold="false" treesize="82" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1676.0174153645833" posy="690.33619181315112" maxwidth="200">
+          <nodename posx="1116.8255118108357" posy="-596.43909080691287" maxwidth="200">
             <text data="https://developer.okta.com/docs/reference/scim/scim-20/"/>
           </nodename>
           <nodenote></nodenote>
         </node>
-        <node id="22" posx="1662.0174153645833" posy="758.33619181315112" width="109" height="46" side="right" fold="false" treesize="46" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+        <node id="22" posx="1102.8255118108357" posy="-528.43909080691287" width="109" height="46" side="right" fold="false" treesize="46" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1676.0174153645833" posy="772.33619181315112" maxwidth="200">
+          <nodename posx="1116.8255118108357" posy="-514.43909080691287" maxwidth="200">
             <text data="SCIM server"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="25" posx="1871.0174153645833" posy="758.33619181315112" width="112" height="46" side="right" fold="false" treesize="46" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+            <node id="25" posx="1311.8255118108357" posy="-528.43909080691287" width="112" height="46" side="right" fold="false" treesize="46" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1885.0174153645833" posy="772.33619181315112" maxwidth="200">
+              <nodename posx="1325.8255118108357" posy="-514.43909080691287" maxwidth="200">
                 <text data="IdP, e.g. Okta"/>
               </nodename>
               <nodenote></nodenote>
             </node>
           </nodes>
         </node>
-        <node id="23" posx="1662.0174153645833" posy="836.33619181315112" width="133" height="46" side="right" fold="false" treesize="110" color="#715344" colorroot="false" layout="Horizontal" group="false">
+        <node id="23" posx="1102.8255118108357" posy="-418.43909080691304" width="133" height="46" side="right" fold="false" treesize="173.99999999999983" color="#715344" colorroot="false" layout="Horizontal" group="false">
           <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-          <nodename posx="1676.0174153645833" posy="850.33619181315112" maxwidth="200">
+          <nodename posx="1116.8255118108357" posy="-404.43909080691304" maxwidth="200">
             <text data="service provider"/>
           </nodename>
           <nodenote></nodenote>
           <nodes>
-            <node id="24" posx="1895.0174153645833" posy="804.33619181315112" width="89" height="46" side="right" fold="false" treesize="46" color="#715344" colorroot="false" layout="Horizontal" group="false">
+            <node id="24" posx="1335.8255118108357" posy="-482.43909080691304" width="89" height="46" side="right" fold="false" treesize="46" color="#715344" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1909.0174153645833" posy="818.33619181315112" maxwidth="200">
+              <nodename posx="1349.8255118108357" posy="-468.43909080691304" maxwidth="200">
                 <text data="e.g. Slido"/>
               </nodename>
               <nodenote></nodenote>
             </node>
-            <node id="31" posx="1895.0174153645833" posy="850.33619181315112" width="219" height="64" side="right" fold="false" treesize="64" color="#715344" colorroot="false" layout="Horizontal" group="false">
+            <node id="31" posx="1335.8255118108357" posy="-436.43909080691321" width="219" height="64" side="right" fold="false" treesize="64" color="#715344" colorroot="false" layout="Horizontal" group="false">
               <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
-              <nodename posx="1909.0174153645833" posy="864.33619181315112" maxwidth="200">
+              <nodename posx="1349.8255118108357" posy="-422.43909080691321" maxwidth="200">
                 <text data="where I want my identities to go"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="73" posx="1335.8255118108357" posy="-372.43909080691321" width="219" height="64" side="right" fold="false" treesize="64" color="#715344" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1349.8255118108357" posy="-358.43909080691321" maxwidth="200">
+                <text data="also sometimes called SCIM application"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="47" posx="1102.8255118108357" posy="61.560909193086673" width="113" height="46" side="right" fold="false" treesize="786" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1116.8255118108357" posy="75.560909193086673" maxwidth="200">
+            <text data="POST /Users"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="48" posx="1315.8255118108357" posy="-308.43909080691338" width="224" height="100" side="right" fold="false" treesize="100" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="-294.43909080691338" maxwidth="200">
+                <text data="schemas attribute in payload is: &quot;urn:ietf:params:scim:schemas:core:2.0:User&quot;"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="49" posx="1639.8255118108352" posy="-290.43909080691327" width="179" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1653.8255118108352" posy="-276.43909080691327" maxwidth="200">
+                    <text data="schemas is an array of strings"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="50" posx="1315.8255118108357" posy="-148.43909080691333" width="190" height="64" side="right" fold="false" treesize="184" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="-134.43909080691333" maxwidth="200">
+                <text data="a user can have multiple names"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="51" posx="1605.8255118108352" posy="-208.43909080691333" width="114" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1619.8255118108352" posy="-194.43909080691333" maxwidth="200">
+                    <text data="displayName"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="52" posx="1605.8255118108352" posy="-162.43909080691333" width="96" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1619.8255118108352" posy="-148.43909080691333" maxwidth="200">
+                    <text data="userName"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="53" posx="1605.8255118108352" posy="-93.439090806913327" width="178" height="46" side="right" fold="false" treesize="92" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1619.8255118108352" posy="-79.439090806913327" maxwidth="200">
+                    <text data="name is also an object"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="54" posx="1883.8255118108357" posy="-116.43909080691333" width="108" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1897.8255118108357" posy="-102.43909080691333" maxwidth="200">
+                        <text data="familyName"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                    <node id="55" posx="1883.8255118108357" posy="-70.439090806913327" width="102" height="46" side="right" fold="false" treesize="46" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="1897.8255118108357" posy="-56.439090806913327" maxwidth="200">
+                        <text data="givenName"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="56" posx="1315.8255118108357" posy="-24.439090806913327" width="190" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="-10.439090806913327" maxwidth="200">
+                <text data="a user can have multiple emails"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="57" posx="1315.8255118108357" posy="39.560909193086673" width="214" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="53.560909193086673" maxwidth="200">
+                <text data="the response is 201 Created plus body with the created resource"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="58" posx="1629.8255118108352" posy="39.560909193086673" width="228" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1643.8255118108352" posy="53.560909193086673" maxwidth="200">
+                    <text data="if I add some custom properties to the user, I should return them as well"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="59" posx="1315.8255118108357" posy="121.56090919308667" width="208" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="135.56090919308667" maxwidth="200">
+                <text data="empty response means the user was not created"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="60" posx="1315.8255118108357" posy="185.56090919308622" width="222" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="199.56090919308622" maxwidth="200">
+                <text data="if the user already exists, 409 should be returned, plus body with the error"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="61" posx="1315.8255118108357" posy="349.5609091930869" width="101" height="46" side="right" fold="false" treesize="210" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1329.8255118108357" posy="363.5609091930869" maxwidth="200">
+                <text data="some risks"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="62" posx="1516.8255118108352" posy="267.56090919308667" width="228" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1530.8255118108352" posy="281.56090919308667" maxwidth="200">
+                    <text data="creation of a user even though one already exists"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="63" posx="1516.8255118108352" posy="331.5609091930869" width="227" height="64" side="right" fold="false" treesize="64" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1530.8255118108352" posy="345.5609091930869" maxwidth="200">
+                    <text data="not sending custom attributes back to the SCIM server"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="64" posx="1516.8255118108352" posy="395.5609091930869" width="215" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1530.8255118108352" posy="409.5609091930869" maxwidth="200">
+                    <text data="performance issues, e.g. timeouts when creating new users"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="74" posx="1102.8255118108355" posy="577.56090919308622" width="169" height="46" side="right" fold="false" treesize="246" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1116.8255118108355" posy="591.56090919308622" maxwidth="200">
+            <text data="PUT /Users/{usersId}"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="75" posx="1371.8255118108355" posy="477.56090919308622" width="228" height="100" side="right" fold="false" treesize="100" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1385.8255118108355" posy="491.56090919308622" maxwidth="200">
+                <text data="after changing a user attribute on the SCIM server that is mapped to an attribute in the SCIM application"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="77" posx="1371.8255118108355" posy="577.56090919308622" width="207" height="82" side="right" fold="false" treesize="82" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1385.8255118108355" posy="591.56090919308622" maxwidth="200">
+                <text data="first GET /Users/{userId} is requested to get the user object"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="78" posx="1678.8255118108355" posy="577.56090919308622" width="208" height="82" side="right" fold="false" treesize="82" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1692.8255118108355" posy="591.56090919308622" maxwidth="200">
+                    <text data="then SCIM server creates a new body with the changed attributes"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                  <nodes>
+                    <node id="79" posx="1986.8255118108355" posy="577.56090919308622" width="219" height="82" side="right" fold="false" treesize="82" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+                      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                      <nodename posx="2000.8255118108355" posy="591.56090919308622" maxwidth="200">
+                        <text data="and sends the whole body (same and new attributes} to the application"/>
+                      </nodename>
+                      <nodenote></nodenote>
+                      <nodes>
+                        <node id="80" posx="2305.8255118108355" posy="577.56090919308622" width="214" height="82" side="right" fold="false" treesize="82" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+                          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                          <nodename posx="2319.8255118108355" posy="591.56090919308622" maxwidth="200">
+                            <text data="the response from the SCIM app is the updated user resource"/>
+                          </nodename>
+                          <nodenote></nodenote>
+                        </node>
+                      </nodes>
+                    </node>
+                  </nodes>
+                </node>
+              </nodes>
+            </node>
+            <node id="81" posx="1371.8255118108355" posy="659.56090919308622" width="226" height="64" side="right" fold="false" treesize="64" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1385.8255118108355" posy="673.56090919308622" maxwidth="200">
+                <text data="PUT is used for changing user attributes"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="82" posx="1102.8255118108355" posy="814.56090919308622" width="180" height="46" side="right" fold="false" treesize="228" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1116.8255118108355" posy="828.56090919308622" maxwidth="200">
+            <text data="PATCH /Users/{userId}"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="83" posx="1382.8255118108355" posy="723.56090919308622" width="220" height="82" side="right" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1396.8255118108355" posy="737.56090919308622" maxwidth="200">
+                <text data="PATCH is used for activating, deactivating the user, and for syncing a password"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="85" posx="1382.8255118108355" posy="805.56090919308622" width="217" height="82" side="right" fold="false" treesize="82" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1396.8255118108355" posy="819.56090919308622" maxwidth="200">
+                <text data="payload is only what I'm changing, not the whole user resource"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="86" posx="1382.8255118108355" posy="887.56090919308622" width="206" height="64" side="right" fold="false" treesize="64" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1396.8255118108355" posy="901.56090919308622" maxwidth="200">
+                <text data="response is the whole user resource"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="88" posx="1102.8255118108355" posy="1065.5609091930862" width="186" height="46" side="right" fold="false" treesize="274" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1116.8255118108355" posy="1079.5609091930862" maxwidth="200">
+            <text data="DELETE /Users/{userId}"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="89" posx="1388.8255118108355" posy="951.56090919308622" width="227" height="64" side="right" fold="false" treesize="64" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1402.8255118108355" posy="965.56090919308622" maxwidth="200">
+                <text data="not all IdPs can do delete, some only deactivate the user"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="91" posx="1388.8255118108355" posy="1024.5609091930862" width="161" height="46" side="right" fold="false" treesize="64" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1402.8255118108355" posy="1038.5609091930862" maxwidth="200">
+                <text data="GET /Users/{userId}"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="92" posx="1649.8255118108355" posy="1015.5609091930862" width="212" height="64" side="right" fold="false" treesize="64" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+                  <nodename posx="1663.8255118108355" posy="1029.5609091930862" maxwidth="200">
+                    <text data="PUT or PATCH to deactivate the user"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="93" posx="1388.8255118108355" posy="1079.5609091930862" width="222" height="64" side="right" fold="false" treesize="64" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1402.8255118108355" posy="1093.5609091930862" maxwidth="200">
+                <text data="e.g. Okta take no action when I suspend the user in it"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="95" posx="1388.8255118108355" posy="1143.5609091930862" width="184" height="82" side="right" fold="false" treesize="82" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="none" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1402.8255118108355" posy="1157.5609091930862" maxwidth="200">
+                <text data="Okta never deletes user resources in the SCIM application"/>
               </nodename>
               <nodenote></nodenote>
             </node>
